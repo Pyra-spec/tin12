@@ -2,15 +2,18 @@
   color: tomato;
   font-weight: bold;
   font-size: 25px;
+  padding: 15px;
 }
 .noidung {
   color: black;
   font-style: normal;
   font-size: 15px;
+  padding: 15px;
 }
 .tieudechinh {
   color: red;
   font-weight: bold;
   font-size: 50px;
   text-align: center;
+  padding: 15px;
 }
