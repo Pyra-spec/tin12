@@ -12,7 +12,12 @@
   background-color:darkgray;
 }
 .menu a{
-  padding: 15px
+  padding: 15px;
+  color: white;
+}
+.menu hover{
+  background-color:white;
+  color:black;
 }
 .content{
   flex:70%;
