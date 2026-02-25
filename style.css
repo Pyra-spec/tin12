@@ -10,7 +10,6 @@
 .menu{
   flex:5%;
   background-color:darkgray;
-  color:white;
 }
 .menu a{
   padding: 15px;
