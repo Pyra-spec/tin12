@@ -11,7 +11,7 @@
   flex:5%;
   background-color:darkgray;
 }
-.menu a{
+.menu:a{
   padding: 15px;
   color: white;
 }
