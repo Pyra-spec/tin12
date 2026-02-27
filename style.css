@@ -10,7 +10,6 @@
 .menu{
   flex:10%;
   background-color:darkgray;
-  text-align:center;
   display:flex;
 }
 .menu a{
